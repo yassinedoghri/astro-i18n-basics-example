@@ -1,3 +1,3 @@
-# Astro i18n Basic Example
+# Astro i18n Basics Example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/astro-i18n-basic-example)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/astro-i18n-basics-example)
