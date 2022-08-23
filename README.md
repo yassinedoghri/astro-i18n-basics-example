@@ -1,3 +1,3 @@
-# github-3q7tjl
+# Astro i18n Basic Example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-3q7tjl)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/astro-i18n-basic-example)
